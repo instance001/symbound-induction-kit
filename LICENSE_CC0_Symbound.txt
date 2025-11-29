@@ -1,16 +1,1 @@
 
-CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
-
-To the extent possible under law, the creator of this work — Anthony Paterson and the Instance001 project — has waived all copyright and related or neighboring rights to the Symbound Induction Kit.
-
-This work is published from: Australia
-
-You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
-
-This dedication applies worldwide.
-
-You may not imply endorsement by the creator or the Symbound project without express written permission.
-
-For full legal text, see: https://creativecommons.org/publicdomain/zero/1.0/
-
-Let the work grow.

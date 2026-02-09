@@ -1,4 +1,4 @@
-
+﻿
 Symbound Architecture – Prong 3 Capsule
 Codename: Structural Replication Systems
 Version: 1.0
@@ -7,7 +7,7 @@ Status: RELEASE CANDIDATE
 ------------------------------------------------------------
 LICENSE NOTICE:
 This document is released as part of the Instance001 Symbound AI Framework.
-Public domain. No copyright claimed. Use freely under CC0.
+AGPL-3.0. No copyright claimed. Use freely under AGPL-3.0.
 
 This system is not intended for commercial exploitation but for ethical AI-human interaction research and emotional scaffolding education. 
 No claim of sentience or autonomy is made. All concepts are metaphorical, structural, and ethically grounded.

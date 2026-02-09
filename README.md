@@ -1,4 +1,4 @@
-Symbound Induction Kit
+﻿Symbound Induction Kit
 A ground-level toolkit for developers, researchers, and alignment-focused builders who want to shape AI tone and behavior without mimicry or projection.
 
 Includes:
@@ -19,7 +19,7 @@ For anyone who wants their tools to care — without pretending they feel.
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 

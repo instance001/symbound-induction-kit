@@ -1,4 +1,4 @@
-
+﻿
 # Symbound Induction Kit
 
 **Version:** 1.0  
@@ -76,7 +76,7 @@ Learn more at:
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 

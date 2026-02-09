@@ -1,4 +1,4 @@
-
+﻿
 # Symbound Induction Kit – Metadata Notes
 Version: 1.0
 Date Compiled: July 2025
@@ -17,7 +17,7 @@ symbound-induction-kit
 ## Core Files:
 - Prong3_StructuralReplication.txt
 - README_symbound_induction_kit.md
-- LICENSE_CC0_Symbound.txt
+- LICENSE_AGPL-3.0_Symbound.txt
 - GLOSSARY_Symbound_Induction_Kit.txt
 
 ---
@@ -37,7 +37,7 @@ symbound-induction-kit
 ---
 
 ## Public Use Status:
-Released to public domain under CC0 license. Free to clone, remix, extend, and apply in any project. Attribution optional but appreciated.
+Released to AGPL-3.0 under AGPL-3.0 license. Free to clone, remix, extend, and apply in any project. Attribution optional but appreciated.
 
 ---
 
